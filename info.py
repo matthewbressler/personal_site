@@ -34,7 +34,7 @@ experience_data = {
     "Georgia Tech Baseball Analyst/Student Manager": (["- Tag Trackman during games and scrimmages to allow for post game reports",
                                                                           "- Assist in projects involving Trackman, Hawk-Eye and Motion Capture", "- Assist with on-field and off-field activities including batting practice, scrimmages, laundry and equipment"],"images/GT_Headshot.JPG"),
     "Baseball Development/Analytics Coach at MVP Sports Academy":(["- Assisted with 20+ high school baseball players’ development by collaborating with professional coaches",
-                                                           "- Analyzed pitching data (HB, IVB, tilt) and video through Rapsodo to improve specific pitches and mechanics of pitchers", "- Applied knowledge of physics principles (torque, projectile motion, air resistance) to manipulating ball flight"],"images/velo.jpg"),
+                                                           "- Analyzed pitching data (HB, IVB, tilt) and video through Rapsodo to improve specific pitches and mechanics of pitchers", "- Applied knowledge of physics principles (torque, projectile motion, air resistance) to manipulating ball flight"],"images/Velo.jpg"),
     "Stevenson Varsity Baseball Team Captain":(["- Consulted with coaches regarding creating and executing practice plans, scheduling team events, and establishing a team culture", "- Mentored 60+ players in the program including underclassmen", "- Led team to a top 8 finish in the IHSA playoffs"],"images/UnionCity2B.JPG")
 
 }
