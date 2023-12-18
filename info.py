@@ -51,18 +51,16 @@ programming_data = {
     "C": 10,
 }
 
-#CHANGE BELOW (OPTIONAL)
 programming_icons = {
     "Python": "🐍",
     "Java": "☕",
     "C": "🔍",
 }
 spoken_icons = {"Mandarin": "",
-    "English": "🇬🇧",
-    "Spanish":"🇪🇸"
+    "English": "",
+    "Spanish":""
 }
 
-#CHANGE BELOW
 spoken_data = {
     "English": "Fluent",
     "Mandarin": "Fluent",
