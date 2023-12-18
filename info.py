@@ -1,17 +1,14 @@
 
-#This File will contain the information to be displayed in your portfolio
+#This File contains the information to be displayed in my portfolio
 
-#CHANGE BELOW
 profile_picture = "images/GT_Headshot.JPG"
 about_me = "My name is Matthew Bressler and I am a Computer Science major at Georgia Tech."
 
 
-#CHANGE BELOW (OPTIONAL)
 linkedin_img_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
 github_img_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
 email_img_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 
-#CHANGE BELOW
 my_linkedin_url = "https://www.linkedin.com/in/matthew-bressler-79597b293/"
 my_github_url = "https://github.com/matthewbressler"
 my_email_address = "mbressler6@gatech.edu"
@@ -25,10 +22,10 @@ education_data ={
     'GPA': '4.0'
 }
 course_data = {
-    "code":["CS 1301", "CS 3001", "MATH 1554", "ENGL 1101"], 
-    "names":["Intro to Computing", "Computing, Society and Professionalism", "Linear Algebra", "English Composition I"], 
-    "semester_taken":["1st", "1st", "1st", "1st"],
-    "skills":["Learning the basics of Python", "CS ethics requirement", "Vectors, matrices and linear transformations", "English requirement"],
+    "code":["CS 1301", "CS 1331", "CS 3001", "MATH 1554"], 
+    "names":["Intro to Computing", "Intro to Object Oriented Programming", "Computing, Society and Professionalism", "Linear Algebra"], 
+    "semester_taken":["Fall '23", "Spring '24", "Fall '23", "Fall '23"],
+    "skills":["Python", "Java", "Computing Ethics", "eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms"],
     }
 experience_data = {
     "Georgia Tech Baseball Analyst/Student Manager": (["- Tag Trackman during games and scrimmages to allow for post game reports",
