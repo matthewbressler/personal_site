@@ -81,7 +81,7 @@ def skillsSection(programming_data, spoken_data):
     for spoken, proficiency in spoken_data.items():
         st.write("{}{}: {}".format(spoken, info.spoken_icons.get(spoken), proficiency))
     st.write("---")
-skillsSection(info.programming_data, info.spoken_data)
+# skillsSection(info.programming_data, info.spoken_data)
 
 #Activities
 
