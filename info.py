@@ -22,10 +22,10 @@ education_data ={
     'GPA': '4.0'
 }
 course_data = {
-    "code":["CS 1301", "CS 1331", "CS 3001", "MATH 1554"], 
-    "names":["Intro to Computing", "Intro to Object Oriented Programming", "Computing, Society and Professionalism", "Linear Algebra"], 
-    "semester_taken":["Fall '23", "Spring '24", "Fall '23", "Fall '23"],
-    "skills":["Python", "Java", "Computing Ethics", "eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms"],
+    "code":["CS 1301", "CS 1331", "CS 3001", "MATH 1554", "MATH 2551"], 
+    "names":["Intro to Computing", "Intro to Object Oriented Programming", "Computing, Society and Professionalism", "Linear Algebra", "Multivariable Calculus"], 
+    "semester_taken":["Fall '23", "Spring '24", "Fall '23", "Fall '23", "Spring '24"],
+    "skills":["Python", "Java", "Computing Ethics", "eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms", "Linear approximation, Taylor’s theorems, Lagrange multiples, constrained optimization, multiple integration and vector analysis."],
     }
 experience_data = {
     "Georgia Tech Baseball Analyst/Student Manager": (["- Tag Trackman during games and scrimmages to allow for post game reports",
@@ -70,5 +70,5 @@ leadership_data = {
 
 }
 activity_data={
-    "Data Science @GT": ["- Working on completing data science bootcamp"]
+    "Data Science @GT": ["- Working on completing data science bootcamp", "- Python, Pandas, NumPy, Machine Learning"]
 }
