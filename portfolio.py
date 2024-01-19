@@ -72,11 +72,13 @@ projectSection(info.projects_data)
 #Skills
 
 def skillsSection(programming_data, spoken_data):
+    '''
     st.header("Skills")
     st.subheader("Programming Languages")
     for skill, percentage in programming_data.items():
         st.write(f"{skill}{info.programming_icons.get(skill)}")
         st.progress(percentage)
+    '''
     st.header("Spoken Languages")
     for spoken, proficiency in spoken_data.items():
         st.write("{}{}: {}".format(spoken, info.spoken_icons.get(spoken), proficiency))
