@@ -62,7 +62,7 @@ experienceSection(info.experience_data)
 #Projects
 
 def projectSection(projects_data):
-    st.header("Projects")
+    st.header("CS 1301 Projects")
     for project_name, project_description in projects_data.items():
         expander = st.expander(f"{project_name}")
         expander.write(project_description)
