@@ -13,15 +13,15 @@ aboutMeSection()
 #Sidebar Links
 def linksSection():
     st.sidebar.header("Links")
-    st.sidebar.text("Connect with me on LinkedIn!")
+    st.sidebar.text("Connect with me on LinkedIn")
     linkedin_link = f'<a href="{info.my_linkedin_url}"><img src="{info.linkedin_img_url}" alt="LinkedIn" width="75" height="75"></a>'
     st.sidebar.markdown(linkedin_link, unsafe_allow_html=True)
 
-    st.sidebar.text("Checkout my work!")
+    st.sidebar.text("Checkout my work")
     github_link = f'<a href="{info.my_github_url}"><img src="{info.github_img_url}" alt="GitHub" width="75" height="75"></a>'
     st.sidebar.markdown(github_link, unsafe_allow_html=True)
     
-    st.sidebar.text("Contact me!")
+    st.sidebar.text("Contact me")
     email_html = f'<a href="mailto:{info.my_email_address}"><img src="{info.email_img_url}" alt="Email" width="75" height="75"></a>'
     st.sidebar.markdown(email_html, unsafe_allow_html=True)
 linksSection()
@@ -50,7 +50,7 @@ educationSection(info.education_data,info.course_data)
 #Professional Experience
 
 def experienceSection(experience_data):
-    st.header("Professional Experience")
+    st.header("Experience")
     for job_title, (job_description, image) in experience_data.items():
         expander = st.expander(f"{job_title}")
         expander.image(image, width = 250)
