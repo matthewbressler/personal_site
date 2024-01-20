@@ -2,7 +2,7 @@
 #This File contains the information to be displayed in my portfolio
 
 profile_picture = "images/GT_Headshot.JPG"
-about_me = "My name is Matthew Bressler and I am a Computer Science major at Georgia Tech. I'm interested in data science/analytics and want to work with baseball in the future."
+about_me = "My name is Matthew Bressler and I am a Computer Science major at Georgia Tech. I'm interested in data science/analytics and want to work with baseball in the future. I love all facets of the game. I was a three year varsity player at Adlai E. Stevenson High School where I was a captain my senior year and helped lead my team to a top 8 appearance in the IHSA State Playoffs. I've also worked with developing high school players through a "\velocity"\ program at MVP Sports Academy in Lake Zurich. I'm currently an analyst/student manager for the division 1 baseball team at Georgia Tech."
 
 
 linkedin_img_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
