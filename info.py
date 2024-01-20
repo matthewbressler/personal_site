@@ -29,7 +29,7 @@ course_data = {
     }
 experience_data = {
     "Georgia Tech Baseball Analyst/Student Manager": (["- Tag Trackman during games and scrimmages to allow for post game reports",
-                                                       "- Assist in projects involving Trackman, Hawk-Eye and Motion Capture", 
+                                                       "- Assist with technology including Trackman, HitTrax, Hawk-Eye and Motion Capture", 
                                                        "- Assist with on-field and off-field activities including batting practice, scrimmages, laundry and equipment"],"images/GT_Headshot.JPG"),
     "Baseball Development/Analytics Coach at MVP Sports Academy":(["- Assisted with 20+ high school baseball players’ development by collaborating with professional coaches",
                                                                    "- Analyzed pitching data (HB, IVB, tilt) and video through Rapsodo to improve specific pitches and mechanics of pitchers", 
@@ -66,7 +66,7 @@ spoken_data = {
     "Mandarin": "Fluent",
 }
 leadership_data = {
-    "Advisory Leader for FMP": (["- Helped freshmen become acclimated with high school", "- Fostered relationships within the classroom"],"images/FMP.jpg"),
+    "Advisory Leader for FMP": (["- Helped 20+ freshmen become acclimated with high school by fostering relationships and leading daily activities/presentations", "- Created weekly agenda and communicated schedule with other mentors and faculty advisor", "- Planned activities and presentations by collaborating with other mentors", "- Attended bi-weekly leadership lunches"],"images/FMP.jpg"),
 
 }
 activity_data={
