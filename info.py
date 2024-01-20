@@ -66,7 +66,7 @@ spoken_data = {
     "Mandarin": "Fluent",
 }
 leadership_data = {
-    "Advisory Leader for FMP": (["- Helped 20+ freshmen become acclimated with high school by fostering relationships and leading daily activities/presentations", "- Created weekly agenda and communicated schedule with other mentors and faculty advisor", "- Planned activities and presentations by collaborating with other mentors", "- Attended bi-weekly leadership lunches"],"images/FMP.jpg"),
+    "Advisory Leader for Stevenson Freshman Mentor Program": (["- Helped 20+ freshmen become acclimated with high school by fostering relationships and leading daily activities/presentations", "- Created weekly agenda and communicated schedule with other mentors and faculty advisor", "- Planned activities and presentations by collaborating with other mentors", "- Attended bi-weekly leadership lunches"],"images/FMP.jpg"),
 
 }
 activity_data={
