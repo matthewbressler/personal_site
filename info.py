@@ -2,7 +2,7 @@
 #This File contains the information to be displayed in my portfolio
 
 profile_picture = "images/GT_Headshot.JPG"
-about_me = "My name is Matthew Bressler and I am a Computer Science major at Georgia Tech."
+about_me = "My name is Matthew Bressler and I am a Computer Science major at Georgia Tech. I'm interested in data science/analytics and want to work with baseball in the future."
 
 
 linkedin_img_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
