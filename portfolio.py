@@ -60,7 +60,7 @@ def experienceSection(experience_data):
 experienceSection(info.experience_data)
 
 #Projects
-
+'''
 def projectSection(projects_data):
     st.header("CS 1301 Projects")
     for project_name, project_description in projects_data.items():
@@ -68,6 +68,7 @@ def projectSection(projects_data):
         expander.write(project_description)
     st.write("---")
 projectSection(info.projects_data)
+'''
 
 #Skills
 
