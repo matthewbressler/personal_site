@@ -30,7 +30,7 @@ course_data = {
 experience_data = {
     "Georgia Tech Baseball Analyst": (["- Optimized defensive positioning by analyzing data on TruMedia, creating detailed positioning cards to enhance game strategy",
                                        "- Develop weekly hitting reports and work with 20+ hitters using HitTrax data to improve performance", 
-                                       "-  Manage in-game data tagging and technology operations via Trackman, producing post-game reports for coaches"],"images/GT_Headshot.JPG"),
+                                       "-  Manage in-game data tagging and technology operations via Trackman, producing post-game reports for coaches"]),
     "Objects and Design Developer": (["- Collaborate with a cross-functional team to design and develop a restaurant search website for Atlanta",
                                       "- Develop UI and UX using Django for back end functionality and Figma for design", 
                                       "- Utilize object oriented programming principles to optimize code structure and project efficiently",
