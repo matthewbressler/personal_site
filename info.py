@@ -2,7 +2,7 @@
 #This File contains the information to be displayed in my portfolio
 
 profile_picture = "images/GT_Headshot.JPG"
-about_me = "My name is Matthew Bressler and I am a Computer Science student at Georgia Tech. I'm interested in data science/analytics and want to work with baseball in the future. I love all facets of the game. I was a three year varsity player at Adlai E. Stevenson High School where I was a captain my senior year and helped lead my team to a top 8 appearance in the IHSA State Playoffs. I've also worked with developing high school players through a velocity program at MVP Sports Academy in Lake Zurich. I'm currently an analyst/student manager for the D1 baseball team at Georgia Tech."
+about_me = "My name is Matthew Bressler and I am pursuing a bachelor's degree in Computer Science at Georgia Tech. I have concentrations in intelligence and information internetworks and am also minoring in Economics. I'm interested in data science/analytics, machine learning, and software engineering. I am also very passionate about baseball analytics. I am currently an analyst for the DI baseball team at Georgia Tech. Prior to that, I was a three year varsity player at Adlai E. Stevenson High School where I was a captain my senior year and helped lead my team to a top 8 appearance in the IHSA State Playoffs."
 
 
 linkedin_img_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
@@ -22,21 +22,24 @@ education_data ={
     'GPA': '4.0'
 }
 course_data = {
-    "code":["CS 1301", "CS 1331", "CS 3001", "MATH 1554", "MATH 2551"], 
-    "names":["Intro to Computing", "Intro to Object Oriented Programming", "Computing, Society and Professionalism", "Linear Algebra", "Multivariable Calculus"], 
-    "semester_taken":["Fall '23", "Spring '24", "Fall '23", "Fall '23", "Spring '24"],
-    "skills":["Python", "Java", "Computing Ethics", "eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms", "Linear approximation, Taylor’s theorems, Lagrange multiples, constrained optimization, multiple integration and vector analysis."],
+    "code":["CS 1301", "CS 1331", "CS 1332", "MATH 1554", "CS 2340", "ISYE 3770"], 
+    "names":["Computing in Python", "Intro to Object Oriented Programming", "Data Structures and Algorithms", "Linear Algebra", "Objects and Design", "Statistics and Application"], 
+    "semester_taken":["Fall '23", "Spring '24", "Fall '24", "Fall '23", "Spring '24"],
+    "skills":["Python", "Object Oriented Programming in Java", "Computer data structures and algorithms", "eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms", "Object-oriented programming methods for dealing with large programs", "probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression"],
     }
 experience_data = {
-    "Georgia Tech Baseball Analyst/Student Manager": (["- Tag Trackman during games and scrimmages to allow for post game reports",
-                                                       "- Assist with technology including Trackman, HitTrax, Hawk-Eye and Motion Capture", 
-                                                       "- Assist with on-field and off-field activities including batting practice, scrimmages, laundry and equipment"],"images/GT_Headshot.JPG"),
-    "Baseball Development/Analytics Coach at MVP Sports Academy":(["- Assisted with 20+ high school baseball players’ development by collaborating with professional coaches",
-                                                                   "- Analyzed pitching data (HB, IVB, tilt) and video through Rapsodo to improve specific pitches and mechanics of pitchers", 
-                                                                   "- Applied knowledge of physics principles (torque, projectile motion, air resistance) to manipulating ball flight"],"images/Velo.jpg"),
-    "Stevenson Varsity Baseball Team Captain":(["- Consulted with coaches regarding creating and executing practice plans, scheduling team events, and establishing a team culture", 
-                                                "- Mentored 60+ players in the program including underclassmen", 
-                                                "- Led team to a top 8 finish in the IHSA playoffs"],"images/UnionCity2B.JPG")
+    "Georgia Tech Baseball Analyst": (["- Optimized defensive positioning by analyzing data on TruMedia, creating detailed positioning cards to enhance
+ game strategy",
+                                                       "- Develop weekly hitting reports and work with 20+ hitters using HitTrax data to improve performance", 
+                                                       "-  Manage in-game data tagging and technology operations via Trackman, producing post-game reports for coaches"],"images/GT_Headshot.JPG"),
+    "Objects and Design Developer": (["- Collaborate with a cross-functional team to design and develop a restaurant search website for Atlanta",
+                                                                   "- Develop UI and UX using Django for back end functionality and Figma for design", 
+                                                                   "- Utilize object oriented programming principles to optimize code structure and project efficiently",
+                                                                   "- Follow user stories and apply the SCRUM framework to manage project workflow and conduct sprint reviews"],"images/Velo.jpg"),
+    "MVP Sports Baseball Development and Analytics Coach": (["- Assisted in the development of 20+ high school baseball players by collaborating with professional coaches", 
+                                                "- Analyzedpitching data (HB, IVB, tilt) and video using Rapsodo technology, resulting in improved mechanics and
+ pitch specific adjustments", 
+                                                "- Appliedphysics principles including torque, projectile motion, and air resistance) to optimize ball flight"],"images/Velo.jpg")
 }
 
 projects_data = {
@@ -66,7 +69,7 @@ spoken_data = {
     "Mandarin": "Fluent",
 }
 leadership_data = {
-    "Advisory Leader for Stevenson Freshman Mentor Program": (["- Helped 20+ freshmen become acclimated with high school by fostering relationships and leading daily activities/presentations", "- Created weekly agenda and communicated schedule with other mentors and faculty advisor", "- Planned activities and presentations by collaborating with other mentors", "- Attended bi-weekly leadership lunches"],"images/FMP.jpg"),
+    "Advisory Leader for Stevenson Freshman Mentor Program": (["- Guided 20+ freshmen through their transition to high school by fostering relationships and leading daily activities", "- Created weekly agendas and communicated schedule with fellow mentors and the faculty advisor", "- Planned activities and presentations by collaborating with fellow mentors to promote a sense of community", "- Attended bi-weekly leadership lunches to improve leadership skills and discuss ways for improvement"],"images/FMP.jpg"),
 
 }
 activity_data={
