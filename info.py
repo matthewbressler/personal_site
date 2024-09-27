@@ -68,6 +68,7 @@ spoken_data = {
 }
 leadership_data = {
     "Advisory Leader for Stevenson Freshman Mentor Program": (["- Guided 20+ freshmen through their transition to high school by fostering relationships and leading daily activities", "- Created weekly agendas and communicated schedule with fellow mentors and the faculty advisor", "- Planned activities and presentations by collaborating with fellow mentors to promote a sense of community", "- Attended bi-weekly leadership lunches to improve leadership skills and discuss ways for improvement"],"images/FMP.jpg"),
+    "Stevenson Varsity Baseball Captain": (["- Collaborated with coaches to create and execute practice plans, organize team events, and establish a team culture", "Mentored 60+ players in the program, guiding underclassmen and fostering leadership within the program", "Led team to a top 8 finish in the IHSA playoffs through leadership and on-field performance"],"images/UnionCity2B.JPG")
 
 }
 activity_data={
