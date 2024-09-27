@@ -24,7 +24,7 @@ education_data ={
 course_data = {
     "code":["CS 1301", "CS 1331", "CS 1332", "MATH 1554", "CS 2340", "ISYE 3770"], 
     "names":["Computing in Python", "Intro to Object Oriented Programming", "Data Structures and Algorithms", "Linear Algebra", "Objects and Design", "Statistics and Application"], 
-    "semester_taken":["Fall '23", "Spring '24", "Fall '24", "Fall '23", "Spring '24"],
+    "semester_taken":["Fall '23", "Spring '24", "Fall '24", "Fall '23", "Spring '24", "Fall '24"],
     "skills":["Python", "Object Oriented Programming in Java", "Computer data structures and algorithms", "eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms", "Object-oriented programming methods for dealing with large programs", "probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression"],
     }
 experience_data = {
