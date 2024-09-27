@@ -28,18 +28,16 @@ course_data = {
     "skills":["Python", "Object Oriented Programming in Java", "Computer data structures and algorithms", "eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms", "Object-oriented programming methods for dealing with large programs", "probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression"],
     }
 experience_data = {
-    "Georgia Tech Baseball Analyst": (["- Optimized defensive positioning by analyzing data on TruMedia, creating detailed positioning cards to enhance
- game strategy",
-                                                       "- Develop weekly hitting reports and work with 20+ hitters using HitTrax data to improve performance", 
-                                                       "-  Manage in-game data tagging and technology operations via Trackman, producing post-game reports for coaches"],"images/GT_Headshot.JPG"),
+    "Georgia Tech Baseball Analyst": (["- Optimized defensive positioning by analyzing data on TruMedia, creating detailed positioning cards to enhance game strategy",
+                                       "- Develop weekly hitting reports and work with 20+ hitters using HitTrax data to improve performance", 
+                                       "-  Manage in-game data tagging and technology operations via Trackman, producing post-game reports for coaches"],"images/GT_Headshot.JPG"),
     "Objects and Design Developer": (["- Collaborate with a cross-functional team to design and develop a restaurant search website for Atlanta",
-                                                                   "- Develop UI and UX using Django for back end functionality and Figma for design", 
-                                                                   "- Utilize object oriented programming principles to optimize code structure and project efficiently",
-                                                                   "- Follow user stories and apply the SCRUM framework to manage project workflow and conduct sprint reviews"],"images/Velo.jpg"),
+                                      "- Develop UI and UX using Django for back end functionality and Figma for design", 
+                                      "- Utilize object oriented programming principles to optimize code structure and project efficiently",
+                                      "- Follow user stories and apply the SCRUM framework to manage project workflow and conduct sprint reviews"],"images/Velo.jpg"),
     "MVP Sports Baseball Development and Analytics Coach": (["- Assisted in the development of 20+ high school baseball players by collaborating with professional coaches", 
-                                                "- Analyzed pitching data (HB, IVB, tilt) and video using Rapsodo technology, resulting in improved mechanics and
- pitch specific adjustments", 
-                                                "- Applied physics principles including torque, projectile motion, and air resistance) to optimize ball flight"],"images/Velo.jpg")
+                                                             "- Analyzed pitching data (HB, IVB, tilt) and video using Rapsodo technology, resulting in improved mechanics and pitch specific adjustments", 
+                                                             "- Applied physics principles including torque, projectile motion, and air resistance) to optimize ball flight"],"images/Velo.jpg")
 }
 
 projects_data = {
