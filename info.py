@@ -41,9 +41,12 @@ experience_data = {
 }
 
 projects_data = {
-    "Lab 1: Building a Website": "Created a person website",
-    "Lab 2: Building Interactive Websites": "Created a Buzzfeed themed quiz",
-    "Lab 3: Building Web Apps": "Created a Pokemon web app using Streamlit. Allows the user to input the name of a Pokemon to get information about it"
+    "Atlanta Food Finder": (["- Collaborate with a cross-functional team to design and develop a restaurant search website for Atlanta",
+                                      "- Develop UI and UX using Django for back end functionality and Figma for design", 
+                                      "- Utilize object oriented programming principles to optimize code structure and project efficiently",
+                                      "- Follow user stories and apply the SCRUM framework to manage project workflow and conduct sprint reviews",
+                                      "-Website Link: https://sites.google.com/view/atl-food-finder/home"]),
+    "CSAS Baseball Data Challenge": "Use new data on bat speed and swing length to analyze pitcher/batter interaction and create productive lineups"
 }
 
 programming_data = {
