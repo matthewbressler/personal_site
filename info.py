@@ -2,7 +2,7 @@
 #This File contains the information to be displayed in my portfolio
 
 profile_picture = "images/GT_Headshot.JPG"
-about_me = "My name is Matthew Bressler and I am pursuing a bachelor's degree in Computer Science at Georgia Tech. I have concentrations in intelligence and information internetworks and am also minoring in Economics. I'm interested in data science/analytics, machine learning, and software engineering. I am also very passionate about baseball analytics. I am currently an analyst for the DI baseball team at Georgia Tech. Prior to that, I was a three year varsity player at Adlai E. Stevenson High School where I was a captain my senior year and helped lead my team to a top 8 appearance in the IHSA State Playoffs."
+about_me = "My name is Matthew Bressler and I am pursuing a bachelor's degree in Computer Science at Georgia Tech. I have concentrations in intelligence and information internetworks and am also minoring in Economics. I'm interested in data science/analytics, machine learning, and software engineering. I am also very passionate about baseball analytics. I am currently an analyst for the DI baseball team at Georgia Tech. Prior to that, I was a three year varsity player at Adlai E. Stevenson High School where I was a captain and helped lead my team to a top 8 appearance in the IHSA State Playoffs."
 
 
 linkedin_img_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
