@@ -60,7 +60,7 @@ def experienceSection(experience_data):
 experienceSection(info.experience_data)
 
 #Projects
-ddef projectSection(projects_data):
+def projectSection(projects_data):
     st.header("Projects")
     if projects_data:
         for project_name, project_description in projects_data.items():
