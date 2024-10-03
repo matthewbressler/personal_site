@@ -41,11 +41,11 @@ experience_data = {
 }
 
 projects_data = {
-    "Atlanta Food Finder": (["- Collaborate with a cross-functional team to design and develop a restaurant search website for Atlanta",
-                                      "- Develop UI and UX using Django for back end functionality and Figma for design", 
-                                      "- Utilize object oriented programming principles to optimize code structure and project efficiently",
-                                      "- Follow user stories and apply the SCRUM framework to manage project workflow and conduct sprint reviews",
-                                      "-Website Link: https://sites.google.com/view/atl-food-finder/home"]),
+    "Atlanta Food Finder": (["Website Link: https://sites.google.com/view/atl-food-finder/home",
+                             "- Collaborate with a cross-functional team to design and develop a restaurant search website for Atlanta",
+                             "- Develop UI and UX using Django for back end functionality and Figma for design", 
+                             "- Utilize object oriented programming principles to optimize code structure and project efficiently",
+                             "- Follow user stories and apply the SCRUM framework to manage project workflow and conduct sprint reviews"]),
     "CSAS Baseball Data Challenge": "Use new data on bat speed and swing length to analyze pitcher/batter interaction and create productive lineups"
 }
 
