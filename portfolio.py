@@ -67,7 +67,7 @@ def projectSection(projects_data):
             expander = st.expander(f"{project_name}")
             if isinstance(project_description, list):
                 for item in project_description:
-                    expander.write(f"- {item}")
+                    expander.write(f"{item}")
             else:
                 expander.write(project_description)
         st.write("---")
