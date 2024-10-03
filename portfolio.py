@@ -60,12 +60,17 @@ def experienceSection(experience_data):
 experienceSection(info.experience_data)
 
 #Projects
-def projectSection(projects_data):
+ddef projectSection(projects_data):
     st.header("Projects")
-    for project_name, project_description in projects_data.items():
-        expander = st.expander(f"{project_name}")
-        expander.write(project_description)
-    st.write("---")
+    if projects_data:
+        for project_name, project_description in projects_data.items():
+            expander = st.expander(f"{project_name}")
+            if isinstance(project_description, list):
+                for item in project_description:
+                    expander.write(f"- {item}")
+            else:
+                expander.write(project_description)
+        st.write("---")
 projectSection(info.projects_data)
 
 
