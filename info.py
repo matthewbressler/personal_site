@@ -22,10 +22,9 @@ education_data ={
     'GPA': '4.0'
 }
 course_data = {
-    "code":["CS 1301", "CS 1331", "CS 1332", "MATH 1554", "CS 2340", "ISYE 3770"], 
-    "names":["Computing in Python", "Intro to Object Oriented Programming", "Data Structures and Algorithms", "Linear Algebra", "Objects and Design", "Statistics and Application"], 
-    "semester_taken":["Fall '23", "Spring '24", "Fall '24", "Fall '23", "Spring '24", "Fall '24"],
-    "skills":["Python", "Object Oriented Programming in Java", "Computer data structures and algorithms", "eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms", "Object-oriented programming methods for dealing with large programs", "probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression"],
+    "code":["CS 1301", "CS 1332", "CS 3600", "ISYE 3770", "MATH 1554", "CS 2110", "CS 1331", "CS 2340"], 
+    "names":["Computing in Python", "Data Structures and Algorithms", "Artificial Intelligence", "Statistics and Application", "Linear Algebra", "Computer Organization and Programming", "Object Oriented Programming", "Objects and Design"], 
+    "skills":["Python", "Computer data structures and algorithms", "intelligent system design methodologies, search and problem solving, supervised and reinforced learning", "probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression", "eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms", "basic computer hardware, machine language, assembly language, and C", "Object Oriented Programming in Java", "Object-oriented programming methods for dealing with large programs"],
     }
 experience_data = {
     "Georgia Tech Baseball Analyst": (["- Optimized defensive positioning by analyzing data on TruMedia, creating detailed positioning cards to enhance game strategy",
