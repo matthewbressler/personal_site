@@ -45,13 +45,13 @@ projects_data = {
     "- Creating web app using Flask to generate personalized reports for players’ pulldown (throwing) data"
   ],
   "Atlanta Food Finder": [
-    "Website Link: https://sites.google.com/view/atl-food-finder/home",
+    "Website Link: https://sites.google.com/view/atl-food-finder/homepage",
     "- Designed and developed frontend functionality for a restaurant search website for Atlanta",
     "- Developed UI and UX using Figma for designing wireframe and Django for integrating backend functionality",
     "- Used voice of customer and SCRUM to manage project framework and organization"
   ],
   "Spotify Wrapped": [
-    "Website Link: https://sites.google.com/view/atl-food-finder/home",
+    "Website Link: https://sites.google.com/view/atl-food-finder/homepage",
     "- Designed and developed frontend and fullstack features for a web app showcasing users’ listening habits on Spotify",
     "- Ensured user stories were being satisfied and discussed progress throughout the project with stakeholders"
   ]
