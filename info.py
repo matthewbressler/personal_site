@@ -24,7 +24,7 @@ education_data ={
 course_data = {
     "code":["CS 1301", "CS 1332", "CS 3600", "ISYE 3770", "MATH 1554", "CS 2110", "CS 1331", "CS 2340"], 
     "names":["Computing in Python", "Data Structures and Algorithms", "Artificial Intelligence", "Statistics and Application", "Linear Algebra", "Computer Organization and Programming", "Object Oriented Programming", "Objects and Design"], 
-    "skills":["Python", "Computer data structures and algorithms", "intelligent system design methodologies, search and problem solving, supervised and reinforced learning", "probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression", "eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms", "basic computer hardware, machine language, assembly language, and C", "Object Oriented Programming in Java", "Object-oriented programming methods for dealing with large programs"],
+    "skills":["Computing principles and programming practices in Python", "Computer data structures and algorithms", "Intelligent system design methodologies, search and problem solving, supervised and reinforced learning", "Probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression", "Eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms", "Basic computer hardware, machine language, assembly language, and C", "Object Oriented Programming in Java", "Object-oriented programming methods for dealing with large programs"],
     }
 experience_data = {
     "Georgia Tech Baseball Analyst": ([" - Develop a Stuff+ model for pitchers using Trackman data", 
