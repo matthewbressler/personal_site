@@ -36,13 +36,42 @@ def educationSection(education_data, course_data):
 
     st.write("**Relevant Coursework:** ")
     coursework = pd.DataFrame(course_data)
-    st.dataframe(coursework, column_config = {
-        "code": "Course Code",
-        "names": "Course Names",
-        "semester_taken": "Semester Taken",
-        "skills": "Description"},
-        hide_index = True,
-        )
+    coursework.columns = ['Course Code', 'Course Name', 'Description']
+    
+    table_html = coursework.to_html(
+        index=False,
+        escape=False,
+        justify="center",
+        classes="styled-table"
+    )
+
+    st.markdown(
+        """
+        <style>
+        .styled-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .styled-table th, .styled-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+            word-wrap: break-word;
+            white-space: normal;
+        }
+        .styled-table th {
+            background-color: #f4f4f4;
+            font-weight: bold;
+        }
+        .styled-table td:nth-child(1), .styled-table th:nth-child(1) {
+            width: 20%; /* Adjust width of the first column */
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+    st.markdown(table_html, unsafe_allow_html=True)
     st.write("---")
 
 educationSection(info.education_data,info.course_data)
